@@ -1,4 +1,3 @@
-// work № 1.1
 
 let numbers = 5;
 
@@ -150,4 +149,3 @@ function allSum(allPer){ // общая сумма денег которую вы
 }
 
 console.log(allSum(allPer));
-
